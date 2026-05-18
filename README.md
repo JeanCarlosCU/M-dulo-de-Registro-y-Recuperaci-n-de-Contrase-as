@@ -1,11 +1,13 @@
 # FrutiFantastico_ProyectoFinal
-#### En este proyecto nuestra base de datos actúa como distribuidora de frutas hacia fruterías en general hasta ahora tenemos 3 clientes que son: smart, frutas DonCarlos y Supermercado Gonzales, son 9 trabajadores en el almacén qué distribuyen y organizan los productos los cuales son:
+#### En este proyecto nuestra base de datos actúa como distribuidora de frutas hacia fruterías en general hasta ahora tenemos 3 clientes que son: smart, FRUTERÍA CASTELLANOS y Supermercado Gonzales, son 9 trabajadores en el almacén qué distribuyen y organizan los productos los cuales son:
 #### Bayas: Arándano, frambuesa, fresa y zarzamora.<br>
 #### Cítricos:Limón, naranja, mandarina y Melón.<br>
 #### Cucurbitáceas:Melón y sandía. <br>
 #### Exóticas:Aguacate, Coco, Kiwi, Mango, Papaya, Piña y Plátano.<br>
 #### Fruta dulce:Cereza, Ciruela, Kaki, Manzana, Melocotón, Pera y Uva<br>
 #### Frutos secos:Almendra, Avellana, Cacahuete, Castaña, Nuez y Pistacho <br>
+
+#### El codigo ahora tiene registro e inicio de sesion junto con una recuperacion de contraseña por si el usuario olvida la contraseña.
 
 #### Nota: El codigo se corre con uv run app.py
 
